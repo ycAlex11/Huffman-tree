@@ -1,0 +1,9 @@
+The program allows the people input some character in the Plain Text, when the   user click the button of Freq Calc, the program create the optimal frequency table,the  user can edit the frequency in the Symbol Table too.
+
+Then the user can click the button of Compress, the program based on the Huffman algorithm replace the characters and create binary stream, then extract each 6-bit value and compressed on the Compressed text.
+
+The function of decompress does not include in this program.
+
+Environment:  Visual C# Express 2010
+
+Run : open the file Asgn and click the F5 . 
